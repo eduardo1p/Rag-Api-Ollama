@@ -8,8 +8,7 @@ Este projeto utiliza Flask e LangChain para processar PDFs e realizar consultas 
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/eduardo1p/rag-project
 
 Instale as dependências:
 
